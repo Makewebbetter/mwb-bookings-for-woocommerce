@@ -1,12 +1,12 @@
 === Bookings for WooCommerce - Booking, WooCommerce Bookings, Manage Bookings, Booking Calendar, Schedule Appointments ===
 Contributors: wpswings
 Donate link:  https://wpswings.com/
-Tags: Booking, Appointments, Appointment Booking, Booking System, Scheduling
+Tags: Bookings, Appointments, Appointment Booking, Booking System, Scheduling
 Requires at least: 5.5.0
-Tested up to: 6.7
+Tested up to: 6.7.1
 WC requires at least: 6.5.0
-WC tested up to: 9.4.1
-Stable tag: 3.2.2
+WC tested up to: 9.4.3
+Stable tag: 3.3.1
 Requires PHP: 7.2
 License: GNU General Public License v3.0 
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Bookings for WooCommerce offers an easy booking management, confirm/reject bookings, enable booking cancellations, restrict durations, etc
 
 == Description ==
-**BOOKINGS FOR WOOCOMMERCE IS THE ULTIMATE SOLUTION FOR BUSINESSES LOOKING TO STREAMLINE THEIR BOOKING PROCESS. START SCHEDULING APPOINTMENTS FOR YOUR CUSTOMERS EFFORTLESSLY. SET BOOKINGS PEOPLE TYPE [ADULTS, KIDS AND OLDIES], MANAGE YOUR BOOKINGS WITH EASE BY UTILIZING THE LISTING CALENDAR AND REGULATING THE BOOKING DURATIONS.**
+**GET THE ULTIMATE SOLUTION FOR BUSINESSES LOOKING TO STREAMLINE THEIR BOOKING PROCESS. START SCHEDULING APPOINTMENTS FOR YOUR CUSTOMERS EFFORTLESSLY. SET BOOKINGS PEOPLE TYPE [ADULTS, KIDS AND OLDIES], MANAGE YOUR BOOKINGS WITH EASE BY UTILIZING THE LISTING CALENDAR AND REGULATING THE BOOKING DURATIONS.**
 
 [**WooCommerce Bookings**](https://wpswings.com/product/bookings-for-woocommerce-pro/?utm_source=wpswings-bookings-pro&utm_medium=bookings-org-page&utm_campaign=bookings-pro)  plugin is a powerful plugin that enables store owners to create an online appointment booking system that allows them to turn their products into online WooCommerce booking solutions and make them available to customers for a set period of time.
 
@@ -24,9 +24,7 @@ You can now simply book time slots utilizing the WordPress booking plugin, confi
 
 [youtube https://www.youtube.com/watch?v=QTIiZDAtWKA?rel=0]
 
-Don’t miss our Halloween Sale—grab the [**Bookings for WooCommerce Pro**](https://wpswings.com/product/bookings-for-woocommerce-pro/?utm_source=wpswings-bookings-pro&utm_medium=bookings-org-page&utm_campaign=hbookings-pro) today at 25% Off! 🎉👻
-
-== SALIENT FEATURES OF THE BOOKING APPOINTMENT WORDPRESS FREE VERSION: ==
+== KEY HIGHLIGHTS OF THE FREE VERSION OF THE WORDPRESS BOOKING PLUGIN: ==
 
 **1) Offer Bookings Availability Settings**
 With the Bookings for WooCommerce Plugin, admins can effortlessly manage availability and scheduling for WooCommerce appointments. They can set daily availability as well as specific booking deadlines, simply by adjusting Start and End times in the plugin’s Availability tab within settings. This flexibility allows for more than 10 slots based on individual needs. Marketers can leverage this feature to customize availability for particular days, weeks, or even months.
@@ -251,9 +249,8 @@ Check out [**WooCommerce Bookings knowledge base**](https://support.wpswings.com
 
 == Changelog ==
 
-= 3.2.2 - Released on 22 November 2024 = 
-* Fix: Choose Date Translation issue on calenda
-* New: Compatibility with latest WP[6.7] and WC[9.4.1]
+= 3.3.1 - Released on 10 December 2024 =
+* New: Compatibility with latest WP[6.7.1] and WC[9.4.3]
 
 = 3.2.1 - Released on 01 November 2024 =
 * New: Added setting to Enable Days availabilty and days availability upto Togather
@@ -406,6 +403,5 @@ Check out [**WooCommerce Bookings knowledge base**](https://support.wpswings.com
 
 == Upgrade Notice ==
 
-= 3.2.2 - Released on 22 November 2024 = 
-* Fix: Choose Date Translation issue on calenda
-* New: Compatibility with latest WP[6.7] and WC[9.4.1]
+= 3.3.1 - Released on 10 December 2024 =
+* New: Compatibility with latest WP[6.7.1] and WC[9.4.3]
